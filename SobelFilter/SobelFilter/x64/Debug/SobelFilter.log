@@ -1,0 +1,20 @@
+﻿  NodesGrid.cpp
+c:\users\usager\documents\visual studio 2015\projects\best tp3 sii\sobelfilter\sobelfilter\nodesgrid.cpp(247): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\usager\documents\visual studio 2015\projects\best tp3 sii\sobelfilter\sobelfilter\nodesgrid.cpp(248): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\usager\documents\visual studio 2015\projects\best tp3 sii\sobelfilter\sobelfilter\nodesgrid.cpp(261): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+c:\users\usager\documents\visual studio 2015\projects\best tp3 sii\sobelfilter\sobelfilter\nodesgrid.cpp(261): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+c:\users\usager\documents\visual studio 2015\projects\best tp3 sii\sobelfilter\sobelfilter\nodesgrid.cpp(265): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+c:\users\usager\documents\visual studio 2015\projects\best tp3 sii\sobelfilter\sobelfilter\nodesgrid.cpp(266): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+c:\users\usager\documents\visual studio 2015\projects\best tp3 sii\sobelfilter\sobelfilter\nodesgrid.cpp(267): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+c:\users\usager\documents\visual studio 2015\projects\best tp3 sii\sobelfilter\sobelfilter\nodesgrid.cpp(268): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+c:\users\usager\documents\visual studio 2015\projects\best tp3 sii\sobelfilter\sobelfilter\nodesgrid.cpp(272): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+c:\users\usager\documents\visual studio 2015\projects\best tp3 sii\sobelfilter\sobelfilter\nodesgrid.cpp(272): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+c:\users\usager\documents\visual studio 2015\projects\best tp3 sii\sobelfilter\sobelfilter\nodesgrid.cpp(275): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+c:\users\usager\documents\visual studio 2015\projects\best tp3 sii\sobelfilter\sobelfilter\nodesgrid.cpp(276): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+c:\users\usager\documents\visual studio 2015\projects\best tp3 sii\sobelfilter\sobelfilter\nodesgrid.cpp(277): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+c:\users\usager\documents\visual studio 2015\projects\best tp3 sii\sobelfilter\sobelfilter\nodesgrid.cpp(278): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+c:\users\usager\documents\visual studio 2015\projects\best tp3 sii\sobelfilter\sobelfilter\nodesgrid.cpp(292): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\usager\documents\visual studio 2015\projects\best tp3 sii\sobelfilter\sobelfilter\nodesgrid.cpp(293): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\usager\documents\visual studio 2015\projects\best tp3 sii\sobelfilter\sobelfilter\nodesgrid.cpp(298): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+c:\users\usager\documents\visual studio 2015\projects\best tp3 sii\sobelfilter\sobelfilter\nodesgrid.cpp(298): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  SobelFilter.vcxproj -> C:\Users\usager\Documents\Visual Studio 2015\Projects\Best TP3 SII\SobelFilter\x64\Debug\SobelFilter.exe
